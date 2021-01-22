@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/veltus5184?template=classic&base.metadata=0&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FBangkok&config.animated=true)
+![Metrics](https://metrics.lecoq.io/veltus5184?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok&config.animated=true)
