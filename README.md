@@ -1,8 +1,1 @@
-### hi there 👋
-my name's veltus5184 or known as veltus. i am currently a/an
-
-- experienced java developer
-- learning web developer
-- graphic and motion designer
-- minecraft server owner
-- solexgames manager & freelancer
+![Metrics](https://metrics.lecoq.io/veltus5184?template=classic&base.metadata=0&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FBangkok&config.animated=true)
