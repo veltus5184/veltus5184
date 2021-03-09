@@ -1,1 +1,13 @@
-![Metrics](https://metrics.lecoq.io/veltus5184?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok&config.animated=true)
+# hello, my name's veltus!
+- I am currently a Developer which is specialized in 4 different coding languages.
+## languages i specialize in
+- Java
+- Python
+- JavaScript
+- PHP (currently learning)
+## organizations i work for
+- @PurgeCommunity
+- @ClubVaxel
+- @VenousGames
+
+want to chat with me? contact me on discord veltus#5184
