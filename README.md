@@ -1,4 +1,4 @@
-## hello im veltus
+## hello im veltus 👋
 im developerman 😎
 
 i code java and stuff (mostly mc plugins)
