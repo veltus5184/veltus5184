@@ -1,13 +1,6 @@
-# hello, my name's veltus!
-- I am currently a 14 years old developer, motion designer, graphic designer, and more. I currently specialize in 4 different coding languages.
-## languages i specialize in
-- Java
-- Python
-- JavaScript
-- PHP (currently learning)
-## organizations i work for
-- @PurgeCommunity
-- @ClubVaxel
-- @VenousGames
+## hello im veltus
+im developerman 😎
 
-want to talk with me? contact me on discord veltus#5184
+i code java and stuff (mostly mc plugins)
+
+annoy me at: veltus#5184 on discord
